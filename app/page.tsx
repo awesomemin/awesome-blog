@@ -11,7 +11,7 @@ export default function Home() {
           lightSpread={0.5}
           rayLength={3}
           pulsating={false}
-          fadeDistance={1}
+          fadeDistance={3}
           saturation={0.8}
           followMouse
           mouseInfluence={0.1}
