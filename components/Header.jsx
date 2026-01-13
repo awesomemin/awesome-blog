@@ -5,6 +5,9 @@ export default function Header() {
     <header className="flex items-center fixed w-full h-16 z-10">
       <ul className="flex w-full justify-evenly text-muted-foreground">
         <li className="hover:text-accent-foreground">
+          <Link href="/">홈</Link>
+        </li>
+        <li className="hover:text-accent-foreground">
           <Link href="/profile">프로필</Link>
         </li>
         <li className="hover:text-accent-foreground">
