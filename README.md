@@ -1,3 +1,1 @@
-# Awesome Blog
-
-**직접 구축한 개인 블로그 & 포트폴리오 사이트입니다.**
+# awesomemin.com
